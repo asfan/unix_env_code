@@ -1,6 +1,6 @@
 ***参考***
-- 《UNIX环境高级编程》
-- [知乎直接查到的齐庆的github](https://github.com/VVictorQi/APUE)
+- [《UNIX环境高级编程》](https://book.douban.com/subject/1788421/)
+- [《知乎直接查到的齐庆的github》](https://github.com/VVictorQi/APUE)
 
 ***主要内容***  
 unix环境编程相关练习
