@@ -1,9 +1,10 @@
 /**
- * test for gdb practice
+ * code for gdb practice
  *
  * author:  asfan
  * date:    2018-03-20
  */
+
 #include <stdio.h>
 
 int func(int n)
